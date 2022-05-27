@@ -11,4 +11,9 @@ This will run the SpringBoot Backend Application on port:8080 of Localhost
 ## Once the backend is Running Now we need to run the Frontend
 
 ## To run the frontend using Vue:
-1.Open Command Prompt in 
+1. Open Command Prompt in Vue_frontend folder
+2. In cmd, run <b>npm install</b>
+3. In cmd then run npm start
+4. Now on any browser search http://localhost:3000
+
+## Now your frontend and backend are running
